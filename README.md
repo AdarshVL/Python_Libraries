@@ -49,3 +49,21 @@ This project uses several Python libraries across data processing, machine learn
 - **streamlit** — Simple dashboards & ML app interface
 
 ---
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor | 🚀 Computer Vision Enthusiast
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
