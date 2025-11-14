@@ -1,5 +1,7 @@
 ## 📦Python_Libraries
-This project uses several Python libraries across data processing, machine learning, visualization, NLP, and computer vision.
+
+This project integrates a comprehensive set of Python libraries covering Data Processing, Machine Learning, Deep Learning, Model Deployment, NLP, and Computer Vision.
+Each library plays a specific role in building a complete end-to-end solution.
 
 ---
 
